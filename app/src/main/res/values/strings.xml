@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EnelbeStore</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="login">Login</string>
+    <string name="regis_new_account">Daftar Akun Baru</string>
+    <string name="app_name_">Enelbe.Store</string>
+    <string name="enter_username">Masukan Username</string>
+    <string name="enter_email_address">Masukan Alamat Email</string>
+    <string name="enter_password">Masukan Password</string>
+    <string name="enter_password_confirmation">Masukan Konfirmasi Password</string>
+    <string name="enter_username_first">Silakan masukan username terlebih dahulu</string>
+    <string name="enter_email_first">Silakan masukan email terlebih dahulu</string>
+    <string name="enter_password_first">Silakan masukan password terlebih dahulu</string>
+    <string name="password_confirmation_doesnt_match">Konfirmasi password tidak sesuai dengan password</string>
+    <string name="registration_success">Registrasi berhasil anda akan dialihkan ke halaman Login</string>
+    <string name="login_success">Login Berhasil anda akan dialihkan ke halaman Home</string>
+    <string name="logout_success">Logout Berhasil anda akan dialihkan ke halaman Login</string>
+    <string name="welcome">Selamat Datang,</string>
+    <string name="dummy_name">John Doe</string>
+    <string name="logout">LOGOUT</string>
+    <string name="check_account">Email atau Password anda salah, jika anda belum memiliki akun silakan buat terlebih dahulu</string>
+</resources>
